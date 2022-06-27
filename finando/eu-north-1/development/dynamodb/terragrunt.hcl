@@ -1,5 +1,5 @@
 terraform {
-  source = "git@github.com:finando/infrastructure-modules.git//dynamodb?ref=dynamodb-1.0.0"
+  source = "git@github.com:finando/infrastructure-modules.git//dynamodb?ref=dynamodb-1.0.1"
 }
 
 include {
