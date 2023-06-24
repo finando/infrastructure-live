@@ -1,5 +1,5 @@
 terraform {
-  source = "git@github.com:finando/infrastructure-modules.git//packages/route-53?ref=route-53@0.2.0"
+  source = "git@github.com:finando/infrastructure-modules.git//packages/route-53?ref=route-53@0.3.0"
 }
 
 include {
