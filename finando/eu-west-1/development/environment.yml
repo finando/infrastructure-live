@@ -1,4 +1,7 @@
 name: development
 
+project:
+  domain_name: development.finando.app
+
 tags:
   Environment: development
