@@ -1,4 +1,7 @@
 name: production
 
+project:
+  domain_name: finando.app
+
 tags:
   Environment: production
