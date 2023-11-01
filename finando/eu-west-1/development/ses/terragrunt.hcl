@@ -1,5 +1,5 @@
 terraform {
-  source = "git@github.com:finando/infrastructure-modules.git//packages/ses?ref=ses@0.2.1"
+  source = "git@github.com:finando/infrastructure-modules.git//packages/ses?ref=ses@0.2.3"
 }
 
 dependency "ssm" {
